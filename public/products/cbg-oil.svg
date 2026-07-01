@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Funni Farm CBG Oil placeholder</title>
+  <desc id="desc">Apothecary-style amber bottle label for Funni Farm CBG Oil.</desc>
+  <rect width="900" height="900" fill="#fffaf0"/>
+  <circle cx="450" cy="450" r="350" fill="#efe0bd" stroke="#26351f" stroke-width="8"/>
+  <g transform="translate(450 430)">
+    <rect x="-78" y="-280" width="156" height="96" rx="18" fill="#171611"/>
+    <rect x="-112" y="-208" width="224" height="440" rx="58" fill="#8a5128" stroke="#2c1c12" stroke-width="10"/>
+    <rect x="-91" y="-144" width="182" height="290" rx="18" fill="#fff1d3" stroke="#26351f" stroke-width="6"/>
+    <text x="0" y="-72" fill="#26351f" font-family="Georgia, serif" font-size="42" font-weight="800" text-anchor="middle">FUNNI</text>
+    <text x="0" y="-22" fill="#26351f" font-family="Georgia, serif" font-size="42" font-weight="800" text-anchor="middle">FARM</text>
+    <path d="M0 18c14-50 14-50 27 0 41-30 41-30 20 17 51 2 51 2 5 24 38 33 38 33-12 21-14 50-14 50-27 0-41 30-41 30-20-17-51-2-51-2-5-24-38-33-38-33 12-21z" fill="#49623b"/>
+    <text x="0" y="132" fill="#171611" font-family="Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle">CBG OIL</text>
+  </g>
+  <text x="450" y="806" fill="#26351f" font-family="Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle">LAB RESULTS PLACEHOLDER</text>
+</svg>
