@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "clean-next-cache": "node scripts/clean-next-cache.mjs",
-    "predev": "npm run clean-next-cache",
+    "verify-required-files": "node scripts/verify-required-files.mjs",
+    "predev": "npm run clean-next-cache && npm run verify-required-files",
     "dev": "next dev",
-    "prebuild": "npm run clean-next-cache",
+    "prebuild": "npm run clean-next-cache && npm run verify-required-files",
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --max-warnings=0",
